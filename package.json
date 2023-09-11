@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "moment": "^2.29.3",
+    "react-h5-audio-player": "^3.8.6"
+  }
+}
